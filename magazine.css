@@ -1,5 +1,6 @@
 @charset "utf-8";
-#heading {
+#cover {
+	background-color: rgba(251,248,248,1.00);
 	width: 1024px;
 	margin-left: auto;
 	margin-right: auto;
